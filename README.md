@@ -1,7 +1,7 @@
 # Breast Cancer Prediction Model
 
 ## Overview
-This project aimed to compare two classification models (decision tree model vs. logistic regression model) in accurately predicting whether a tumor is benign or malignant. Performed correlation analysis to identify the strongest predictors (concave points, radius, perimeter) for a breast cancer image. Performed a train-test split (80% training, 20% testing) to check how each model performed on the data.
+This project aimed to compare two classification models (decision tree model vs. logistic regression model) in accurately predicting whether a tumor is benign or malignant. Correlation analysis was used to identify the strongest predictors (concave points, radius, perimeter) for a breast cancer image. A train-test split (80% training, 20% testing) was used to determine the prediction accuracy of each model.
 
 ## Results
 - Logistic Regression accuracy: 95.6%
